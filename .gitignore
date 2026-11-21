@@ -1,0 +1,6 @@
+# Ignore local build artifacts and secrets
+*.env
+.env
+config.json
+*.log
+render.yaml.bak
